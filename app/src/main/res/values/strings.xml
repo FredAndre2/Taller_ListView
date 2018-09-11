@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Taller_ListView</string>
+    <string name="title_activity_areas">Areas</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="areas">Areas</string>
+    <string name="volumenes">Volumenes</string>
+    <string name="cilindro">Cilindro</string>
+    <string name="cubo">Cubo</string>
+    <string name="listar_operaciones">Listar Operaciones</string>
+    <string name="operaciones">Operaciones realizadas</string>
+    <string-array name="opciones_principal">
+        <item>@string/areas</item>
+        <item>@string/volumenes</item>
+        <item>@string/operaciones</item>
+    </string-array>
+    <string-array name="opciones_areas">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+    </string-array>
+    <string-array name="opciones_volumenes">
+        <item>@string/cilindro</item>
+        <item>@string/cubo</item>
+    </string-array>
+</resources>
